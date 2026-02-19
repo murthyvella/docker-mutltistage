@@ -1,5 +1,6 @@
-#user this docker file
--<with go lang calculater application that you can see use case of multistage build. where it draftiaclly reduce the images size 
+#use this docker file
+
+<<<<<<<- use this doker file with calculater.go- application code that you can see use case of multistage build. where it draftiaclly reduce the images size 
 <img width="1340" height="116" alt="image" src="https://github.com/user-attachments/assets/e335f522-e7d1-4832-8ff5-3e741966c3ae" />
 _______________________________________________________________________________________________________________________________________________________________
 ✅ Image size reduced by approximately** 88.7%**
